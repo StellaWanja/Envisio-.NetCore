@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewEnvisioBackend", "NewEnvisioBackend.csproj", "{DC569E77-6CAC-4094-B355-0B7BEA686C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC569E77-6CAC-4094-B355-0B7BEA686C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC569E77-6CAC-4094-B355-0B7BEA686C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC569E77-6CAC-4094-B355-0B7BEA686C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC569E77-6CAC-4094-B355-0B7BEA686C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F603B9E0-E3A8-4185-838C-3CB53EAB6CFC}
+	EndGlobalSection
+EndGlobal
